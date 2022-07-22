@@ -1,0 +1,16 @@
+:root {
+    --color-background: #262626;
+    --color-texto-principal: #d3d3d3;
+    --color-texto-secondary: gray;
+    --color-verde: #78ca0c;
+    --color-azul: #12b7cb;
+    --font-rickandmorty: 'shlop-family';
+    --border-radius: 10px;
+}
+
+@font-face {
+    font-family: 'shlop-family';
+    src: url('../fonts/shlop.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
