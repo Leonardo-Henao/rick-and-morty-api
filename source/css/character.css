@@ -20,7 +20,8 @@ section{
     height: 95vh;
 }
 .content-character {
-   display: flex;
+    display: flex;
+    flex-wrap: wrap;
    background: var(--color-azul);
    text-shadow: 0px 0px 1px var(--color-background);
    border-radius: var(--border-radius);
