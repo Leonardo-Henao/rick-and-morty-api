@@ -18,6 +18,8 @@ h1 {
     letter-spacing: 4px;
     margin: 10px 15px;
     color: var(--color-azul);
+    text-align: center;
+    margin: 1rem 0;
 }
 
 .character {
@@ -29,6 +31,7 @@ h1 {
     cursor: pointer;
     color: var(--color-background);
 }
+
 .character:hover {
     background: var(--color-verde);
     color: var(--color-texto-principal);
